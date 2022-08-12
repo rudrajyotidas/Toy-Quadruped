@@ -24,7 +24,7 @@ $L = 120$
 
 ## Joint Space
 
-The next plot shows the joint space of the leg, in other words, the values that $\alpha$ and $\beta$
+The next plot shows the joint space of the leg, in other words, the values that $\alpha$ and $\beta$ in the geometry
 
 ![Joint Space](JointSpace.png)
 
