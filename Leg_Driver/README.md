@@ -50,11 +50,11 @@ $$ t_y = Tsin(\alpha) + Lsin(\gamma - \alpha) $$
 
 Also, for a given $\alpha$, the limits on $\epsilon$ can be found by applying cosine rule on the two extreme cases when 
 
-a) Crank and Coupler links are aligned in a straight line\\
-$$ \epsilon_l = \sqrt{\frac{(C+CU)^2 + f^2 - R^2}{2(C+CU)f}} $$
+a) Crank and Coupler links are aligned in a straight line:
+$ \epsilon_l = \sqrt{\frac{(C+CU)^2 + f^2 - R^2}{2(C+CU)f}} $
 
-b) Rocker and Coupler links are aligned in a straigh line\\
-$$ \epsilon_h = \sqrt{\frac{C^2 + f^2 - (CU + R)^2}{2Cf}} $$
+b) Rocker and Coupler links are aligned in a straigh line:
+$ \epsilon_h = \sqrt{\frac{C^2 + f^2 - (CU + R)^2}{2Cf}} $
 
 The limits on $\epsilon$ helps us determine the limits on $\beta$ for a particular $\alpha$ using $\beta = \pi - \theta - \epsilon$
 
