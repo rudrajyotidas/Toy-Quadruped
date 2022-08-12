@@ -38,7 +38,7 @@ Here we show the workspace of the leg, that is, the points that the toe can take
 
 Forward Kinematics help us find the coordinates of the toe, given the state $(\alpha, \beta)$. With reference to the geometry of the leg, the equations can be formulated as:
 
-$$ f = \sqrt{(O^2 + T^2 - 2OTcos(\alpha))} \ sin(\theta) = \frac{Tsin(\alpha)}{f} $$
+$$ f = \sqrt{(O^2 + T^2 - 2OTcos(\alpha))} \\ sin(\theta) = \frac{Tsin(\alpha)}{f} $$
 $$ sin(\delta) = \frac{Osin(\alpha)}{f} $$
 $$ \epsilon = \pi - \theta - \beta $$
 $$ t = \sqrt{(f^2 + C^2 - 2fCcos(\epsilon))} $$
